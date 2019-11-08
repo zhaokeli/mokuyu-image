@@ -1,6 +1,6 @@
 # mokuyu-image
 引类是引用thinkphp中的图片处理类,文档可以参考 [图片处理手册](https://www.kancloud.cn/manual/thinkphp5_1/354123)
-##添加水印
+## 添加水印
 ```
 $src_img='1.png';
 $water_img='sy.png';
